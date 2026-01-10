@@ -33,13 +33,6 @@ Most of my time goes into **Android, web dev, Linux** and trying out random idea
 
 ---
 
-## GitHub Stats
-
-![Contributions](https://git-hub-stats-card-generator.vercel.app/api/svg?username=Musafir02&type=contributions)
-![Top Languages](https://git-hub-stats-card-generator.vercel.app/api/svg?username=Musafir02&type=languages)
-
----
-
 ## Currently Learning
 
 - AI / Machine Learning basics
